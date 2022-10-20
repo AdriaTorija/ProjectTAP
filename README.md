@@ -7,8 +7,9 @@
 
 
 
-#Abstract
-Project for getting to know to different dessign patterns.
+# Abstract
+Project for getting to know to different dessign patterns in Java and Scala.
+
 This code will be Java program of a mailing system where different users can send messages to each other.
 Messages will be saved in a message store and users can send or receive messages to the store. We
 will also need some administrative operations to manage mailboxes.
