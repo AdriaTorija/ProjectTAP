@@ -1,5 +1,5 @@
 # ProjectTAP
-### Names
+### Authors
 
     -Adria Torija Ruiz
 
